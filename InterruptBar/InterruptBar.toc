@@ -1,0 +1,11 @@
+## Interface: 70300
+## Title: |cff00ccffInterruptBar by Frost/FrostWD/Frost-Xavius
+## Notes: Tracks interrupts and important cooldowns
+## Version: 2.0
+## Author: Frost-Xavius EU | Carlos | FrostWD & Credits to Robrman 99%
+## X-Website: Wicked-Demise.com
+## DefaultState: Enabled
+## SavedVariables: InterruptBarDB
+
+Spells.lua
+InterruptBar.lua
